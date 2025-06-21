@@ -9,7 +9,10 @@ Vendors and project maintainers can apply for an OpenAuthCert badge by submittin
    - Include badge version(s) you're applying for
 
 2. **Attach Required Materials**
-   - Links to documentation and source
+   - Current version number (use [semver](https://semver.org/))
+   - Protocols supported (OIDC, SAML, LDAP)
+   - Link to public documentation
+   - Links to source or binary downloads
    - Deployment screenshots (if applicable)
    - Reproducible instructions to validate criteria
 

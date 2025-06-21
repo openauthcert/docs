@@ -16,8 +16,11 @@ This version defines the baseline criteria required for a project or vendor to e
 
 To qualify for the OpenAuthCert badge, the project/vendor must:
 
-1. **Support at least one open authentication protocol**:
-   - OIDC, SAML 2.0, LDAP, Kerberos, RADIUS
+1. **Provide at least one of the following protocols in the free version**:
+   - OIDC
+   - SAML 2.0
+   - LDAP
+   - _Other protocols such as Kerberos or RADIUS may be offered in addition_
 
 2. **Provide this support without any of the following paywalls**:
    - Enterprise-only feature restriction
@@ -28,9 +31,11 @@ To qualify for the OpenAuthCert badge, the project/vendor must:
    - Identity Provider (IdP) integrations
    - Federated login options (SSO, social, or directory-based)
 
-4. **Publish source code or offer free access to binaries** (for evaluation and testing)
+4. **Make documentation publicly accessible without login or payment**
 
-5. **Respect user privacy and open access values**, including:
+5. **Publish source code or offer free access to binaries** (for evaluation and testing)
+
+6. **Respect user privacy and open access values**, including:
    - No forced telemetry during login
    - No mandatory cloud relay unless explicitly documented
 
@@ -52,6 +57,8 @@ To qualify for the OpenAuthCert badge, the project/vendor must:
 - Project self-declaration + community audit
 
 All badge applications must include reproducible instructions for reviewers.
+
+**Note:** Every major version change of a certified software project requires a new review and recertification.
 
 ---
 
