@@ -33,7 +33,7 @@ policies/
 
 faq.md                   # Common questions about badges, vendors, and access
 
-All documents are published under the [CC BY-SA 4.0 License](LICENSE).
+All documents are published under the [CC BY-SA 4.0 License](https://github.com/OpenAuthCert/docs/blob/main/LICENSE).
 
 ---
 
