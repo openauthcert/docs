@@ -1,7 +1,5 @@
 # OpenAuthCert Documentation
 
-Welcome! Choose your language:
+Welcome! Documentation is maintained in English only.
 
 - [English](/en/)
-- [Română](/ro/)
-- [Polski](/pl/)

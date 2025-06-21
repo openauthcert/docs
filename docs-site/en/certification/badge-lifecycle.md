@@ -28,6 +28,7 @@ Each OpenAuthCert badge follows a lifecycle from proposal to deprecation. This e
 ### 6. **Deprecation**
 - Older versions may be deprecated with 90 days public notice
 - Badges remain valid if earned before deprecation date
+- Badges expire if the certified version is no longer the latest major release, unless recertified
 
 ## Versioning
 
